@@ -1,5 +1,6 @@
 import React from "react"
 import ReactDOM from "react-dom"
+import registerServiceWorker from "./registerServiceWorker"
 import { hot } from "react-hot-loader"
 
 import App from "./app/app.js"
@@ -10,3 +11,4 @@ const AppWithHot = hot(module)(App)
 
 var mountNode = document.getElementById("app")
 ReactDOM.render(<AppWithHot />, mountNode)
+registerServiceWorker()
