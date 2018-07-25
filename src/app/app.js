@@ -9,7 +9,7 @@ export default class App extends Component {
 
           <div className="card">
             <div className="card-body">
-              <p>This can be used to start creating apps using Webpack 4.</p>
+              <p>Starter kit for using Webpack 4</p>
             </div>
           </div>
         </header>

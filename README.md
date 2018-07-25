@@ -1,6 +1,6 @@
 # Webpack 4 Starter
 
-This can be used to start creating apps using Webpack 4.
+Starter kit for using Webpack 4
 
 ## Libraries included:
 
