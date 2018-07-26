@@ -1,14 +1,14 @@
-import React from "react"
-import ReactDOM from "react-dom"
-import registerServiceWorker from "./registerServiceWorker"
-import { hot } from "react-hot-loader"
+import React from 'react'
+import ReactDOM from 'react-dom'
+import registerServiceWorker from './registerServiceWorker'
+import { hot } from 'react-hot-loader'
 
-import App from "./app/app.js"
+import App from './app/app.js'
 
-import "./sass/style.scss"
+import './sass/style.scss'
 
 const AppWithHot = hot(module)(App)
 
-var mountNode = document.getElementById("app")
+var mountNode = document.getElementById('app')
 ReactDOM.render(<AppWithHot />, mountNode)
 registerServiceWorker()
