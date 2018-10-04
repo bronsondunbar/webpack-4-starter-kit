@@ -1,6 +1,6 @@
-# Webpack 4 Starter
+# Webpack 4 Starter Kit
 
-Starter kit for using Webpack 4
+You can use the following starter kit when creating projects using Webpack 4.
 
 ## Libraries included:
 
