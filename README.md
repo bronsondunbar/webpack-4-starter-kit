@@ -2,6 +2,13 @@
 
 You can use the following starter kit when creating projects using Webpack 4.
 
+
+`git clone https://github.com/bronsondunbar/webpack-4-starter-kit`
+
+`npm install`
+
+`npm run`
+
 ## Libraries included:
 
 - <a href="http://getbootstrap.com/" target="_blank">Bootstrap</a>
